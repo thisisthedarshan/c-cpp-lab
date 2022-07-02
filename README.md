@@ -8,9 +8,9 @@
 
 ---
 
-You can also find pre-compiled binaries in the binariers directory.
+You can also find pre-compiled binaries from releases.
 
-To run them, simply download the repo, extract zip file and open the terminal.
+To run them, simply download them, copy to another folder (if needed) and open the terminal.
 
 ``cd`` into the location (if not already done) and just type the executable name to run (example: -> ``.\3.exe``)
 
